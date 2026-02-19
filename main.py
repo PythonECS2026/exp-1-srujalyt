@@ -5,4 +5,4 @@
 
 # Write your code here
 name=input("Enter  the user name")
-print("Hello", name ) 
+print("Welcome", name ) 
