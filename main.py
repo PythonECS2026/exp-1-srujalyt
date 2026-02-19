@@ -3,6 +3,5 @@
 # Coder: Srujal Sunil Hawelikar
 # Date: 18/02/2026
 
-# Write your code here
 name=input("Enter  the user name")
-print("Welcome", name ) 
+print("Welcome" , name  )  
